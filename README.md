@@ -1,6 +1,6 @@
 This program creates jazz music from guitar tabs.
 
-input: curl -X POST curl -X POST 127.0.0.1:8080/writesong?songUrl=https://songster.com/url
+input: curl -X POST 127.0.0.1:8080/writesong?songUrl=https://songster.com/url
 
 variable input: https://songster.com/url 
 
